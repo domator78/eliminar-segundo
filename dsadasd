@@ -1,0 +1,13 @@
+[33m5c1ef5c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{0}: reset: moving to 5c1ef5c
+[33m2dec8d1[m HEAD@{1}: reset: moving to 2dec8d1
+[33m5c1ef5c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{2}: reset: moving to 5c1ef5c
+[33m2dec8d1[m HEAD@{3}: Branch: renamed refs/heads/master to refs/heads/main
+[33m2dec8d1[m HEAD@{5}: checkout: moving from master to master
+[33m2dec8d1[m HEAD@{6}: checkout: moving from 958e49828b0d8df3062d1ccd80357a36b914e6e9 to master
+[33m958e498[m HEAD@{7}: commit: contact.html
+[33m91ca9ed[m HEAD@{8}: commit: about.html
+[33m5c1ef5c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{9}: checkout: moving from master to 5c1ef5c
+[33m2dec8d1[m HEAD@{10}: commit: about.hmtl
+[33m21c278e[m HEAD@{11}: commit: contact.html
+[33mc93d742[m HEAD@{12}: commit: about.hmtl
+[33m5c1ef5c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{13}: commit (initial): index.html
